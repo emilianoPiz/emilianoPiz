@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development, glitchart and iGaming 
 - 🌱 I’m currently learning angular 17+
 - 💞️ I’m looking to collaborate on glitch art related projects or gaming
-- 📫 How to reach me instagram: @phase.off
+- 📫 How to reach me: live:.cid.bc3ab3e1bd0af5d8
 
 <!---
 emilianoPiz/emilianoPiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
