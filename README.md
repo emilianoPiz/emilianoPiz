@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emilianoPiz
+- 👋 Hi, I’m @emilianoPiz aka BlueWindows
 - 👀 I’m interested in frontend development, glitchart and iGaming 
 - 🌱 I’m currently learning angular 17+
 - 💞️ I’m looking to collaborate on glitch art related projects or gaming
