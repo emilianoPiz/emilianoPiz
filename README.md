@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emilianoPiz aka BlueWindows
+- 👋 Hi, I’m @emilianoPiz aka phase.off
 - 👀 I’m interested in frontend development, glitchart and iGaming 
 - 🌱 I’m currently learning angular 18.0
 - 💞️ I’m looking to collaborate on glitch art related projects or gaming
