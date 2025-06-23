@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @emilianoPiz aka phase.off
-- 👀 I’m interested in frontend development, glitchart and iGaming 
-- 🌱 I’m currently learning angular 18.0
-- 💞️ I’m looking to collaborate on glitch art related projects or gaming
-- 📫 How to reach me: live:.cid.bc3ab3e1bd0af5d8
-- 🌐 My most ambitious personal project: https://socialgamingfrontend.onrender.com/home
-- Unfornately lately im a just focusing on the company projects so i am not updating quickly here :(
-- i am also studying computer science in La Sapienza so there be some python in here
-<!---
-emilianoPiz/emilianoPiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @emilianoPiz, also known as phase.off
+- 👀 I’m interested in **frontend development**, **glitch art**, and **iGaming**. I also have a keen interest in **low-level programming** and **game development architectures**.
+- 🌱 I’m currently learning **Angular 18.0** and deepening my understanding of **computer science fundamentals** at La Sapienza University.
+- 💞️ I’m looking to collaborate on **glitch art projects** or **gaming-related endeavors**.
+- 💼 I'm a **Frontend Game Developer** at Nemesis Game Studio, where I focus on crafting engaging user experiences.
+- 💻 I'm proficient in various programming languages, including **JavaScript**, **TypeScript**, **Python**, and **Assembly Language (MIPS)**. I also have experience with web technologies like **HTML** and **CSS**, and frameworks such as **Angular**.
+
