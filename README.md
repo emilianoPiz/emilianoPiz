@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emilianoPiz, also known as phase.off
+- 👋 Hi, I’m @emilianoPiz
 - 👀 I’m interested in **frontend development**, **glitch art**, and **iGaming**. I also have a keen interest in **low-level programming** and **game development architectures**.
 - 🌱 I’m currently learning **Database Architecture** and deepening my understanding of **computer science fundamentals** at La Sapienza University.
 - 💞️ I’m looking to collaborate on **glitch art projects** or **gaming-related endeavors**.
